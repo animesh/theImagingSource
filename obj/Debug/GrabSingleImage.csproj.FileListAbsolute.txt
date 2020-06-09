@@ -23,3 +23,16 @@ C:\Users\animeshs\GD\theImagingSource\obj\Debug\GrabSingleImage.csproj.CoreCompi
 C:\Users\animeshs\GD\theImagingSource\obj\Debug\GrabSingleImage.csproj.CopyComplete
 C:\Users\animeshs\GD\theImagingSource\obj\Debug\GrabSingleImage.exe
 C:\Users\animeshs\GD\theImagingSource\obj\Debug\GrabSingleImage.pdb
+C:\Users\animeshs\GD\theImagingSource\theImagingSource\bin\Debug\GrabSingleImage.exe.config
+C:\Users\animeshs\GD\theImagingSource\theImagingSource\bin\Debug\GrabSingleImage.exe
+C:\Users\animeshs\GD\theImagingSource\theImagingSource\bin\Debug\GrabSingleImage.pdb
+C:\Users\animeshs\GD\theImagingSource\theImagingSource\bin\Debug\stdole.dll
+C:\Users\animeshs\GD\theImagingSource\theImagingSource\bin\Debug\TIS.Imaging.ICImagingControl35.dll
+C:\Users\animeshs\GD\theImagingSource\theImagingSource\bin\Debug\TIS.Imaging.ICImagingControl35.xml
+C:\Users\animeshs\GD\theImagingSource\theImagingSource\obj\Debug\GrabSingleImage.csprojAssemblyReference.cache
+C:\Users\animeshs\GD\theImagingSource\theImagingSource\obj\Debug\GrabSingleImage.Form1.resources
+C:\Users\animeshs\GD\theImagingSource\theImagingSource\obj\Debug\GrabSingleImage.csproj.GenerateResource.cache
+C:\Users\animeshs\GD\theImagingSource\theImagingSource\obj\Debug\GrabSingleImage.csproj.CoreCompileInputs.cache
+C:\Users\animeshs\GD\theImagingSource\theImagingSource\obj\Debug\GrabSingleImage.csproj.CopyComplete
+C:\Users\animeshs\GD\theImagingSource\theImagingSource\obj\Debug\GrabSingleImage.exe
+C:\Users\animeshs\GD\theImagingSource\theImagingSource\obj\Debug\GrabSingleImage.pdb
