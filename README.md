@@ -1,21 +1,29 @@
-[//]: # (BADGES SECTION: change `fastai` with your GitHub username and `fastpages` with the name of your repo)
+[//]: # (BADGES SECTION: `animeshs` \ `theImagingSource` repo)
 
-![](https://github.com/fastai/fastpages/workflows/CI/badge.svg)
-![](https://github.com/fastai/fastpages/workflows/GH-Pages%20Status/badge.svg)
-[![](https://img.shields.io/static/v1?label=fastai&message=nbdev&color=57aeac&labelColor=black&style=flat&logo=data:image/png;base64,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)](https://github.com/fastai/nbdev)
-[![](https://img.shields.io/static/v1?label=View%20Demo%20Site&message=link&labelColor=2f363d&color=blue&style=flat&logo=github&logoColor=959da5)](https://fastpages.fast.ai/)
+![](https://github.com/animeshs/theImagingSource/workflows/CI/badge.svg)
+![](https://github.com/animeshs/theImagingSource/workflows/GH-Pages%20Status/badge.svg)
+[![](https://img.shields.io/static/v1?label=animeshs&message=nbdev&color=57aeac&labelColor=black&style=flat&logo=data:image/png;base64,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)](https://github.com/animeshs/nbdev)
+[![](https://img.shields.io/static/v1?label=View%20Demo%20Site&message=link&labelColor=2f363d&color=blue&style=flat&logo=github&logoColor=959da5)](https://theImagingSource.fast.ai/)
 
 [//]: # (END OF BADGES SECTION)
 
-# Welcome To `fastpages`
+![](images/Merknad 2020-06-09 152525.png)
 
-> An easy to use blogging platform, with support for Jupyter notebooks, Word docs, and Markdown.
+#  `theImagingSource`
 
-![](images/diagram.png)
+> Sample
 
-`fastpages` uses [GitHub Actions](https://github.com/features/actions) to simplify the process of creating [Jekyll blog posts](https://jekyllrb.com/) on [GitHub Pages](https://pages.github.com/) from a variety of input formats.
+![](images/Merknad 2020-06-09 151912.png)
 
-### `fastpages` provides the following features:
+`theImagingSource` uses [IC Imaging Control - Sample Library](https://www.theimagingsource.com/support/downloads-for-windows/programming-samples/icimagingcontrolsnippets/) to capture image [acquiring_an_image_cs](https://www.theimagingsource.com/support/downloads-for-windows/programming-samples/icimagingcontrolsnippets/)
+
+![](images/Merknad 2020-06-09 152118.png)
+
+### `theImagingSource` uses the [IC Imaging Control SDK](https://www.theimagingsource.com/products/software/software-development-kits-sdks/ic-imaging-control/) [C#](https://www.theimagingsource.com/support/downloads-for-windows/software-development-kits-sdks/icimagingcontrolcsharp/) reference (DLL)[C:\Program Files (x86)\The Imaging Source Europe GmbH\IC Imaging Control 3.5 .NET Library\bin\x64\TIS.Imaging.ICImagingControl35.dll]
+
+![](images/Merknad 2020-06-09 152420.png)
+
+#  `fastai source rem`
 
 - Create posts containing code, outputs of code (which can be interactive), formatted text, etc directly from [Jupyter Notebooks](https://jupyter.org/); Notebook posts support features such as:
     - Interactive visualizations made with [Altair](https://altair-viz.github.io/) remain interactive.
@@ -35,13 +43,13 @@
 See below for a more detailed list of features.
 
 
-**[See the demo site](https://fastpages.fast.ai/)**
+**[See the demo site](https://theImagingSource.fast.ai/)**
 
 ---
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Welcome To `fastpages`](#welcome-to-fastpages)
+- [Welcome To `theImagingSource`](#welcome-to-theImagingSource)
 	- [Setup Instructions](#setup-instructions)
 	- [Customizing Blog Posts With Front Matter](#customizing-blog-posts-with-front-matter)
 		- [Configure Title & Summary](#configure-title--summary)
@@ -67,9 +75,9 @@ See below for a more detailed list of features.
 - [Running the blog on your local machine](#running-the-blog-on-your-local-machine)
 - [Using The GitHub Action & Your Own Custom Blog](#using-the-github-action-your-own-custom-blog)
 	- [Optional Inputs](#optional-inputs)
-- [Contributing To Fastpages](#contributing-to-fastpages)
-- [Upgrading Fastpages](#upgrading-fastpages)
-- [Customizing Fastpages](#customizing-fastpages)
+- [Contributing To theImagingSource](#contributing-to-theImagingSource)
+- [Upgrading theImagingSource](#upgrading-theImagingSource)
+- [Customizing theImagingSource](#customizing-theImagingSource)
 - [FAQ](#faq)
 
 <!-- /TOC -->
@@ -77,16 +85,16 @@ See below for a more detailed list of features.
 
 ## Setup Instructions
 
-1.  Generate a copy of this repo by clicking [on this link](https://github.com/fastai/fastpages/generate).  Name your repo anything you like **except** {your-username}.github.io.
+1.  Generate a copy of this repo by clicking [on this link](https://github.com/animeshs/theImagingSource/generate).  Name your repo anything you like **except** {your-username}.github.io.
 
 2. **GitHub Actions will automatically open a PR** on your new repository ~ 30 seconds after the copy is created.  Follow the instructions in that PR to continue.
 
-For a live walk-through of the setup steps (with some additional tips) see this [video tutorial of setting up a fastpages blog](https://youtu.be/L0boq3zqazI) by Abdul Majed.
+For a live walk-through of the setup steps (with some additional tips) see this [video tutorial of setting up a theImagingSource blog](https://youtu.be/L0boq3zqazI) by Abdul Majed.
 
 
 ## Customizing Blog Posts With Front Matter
 
-[Front matter](https://jekyllrb.com/docs/front-matter/) allows you to toggle various options on/off for each blog post, as well as pass metadata to various features of fastpages.
+[Front matter](https://jekyllrb.com/docs/front-matter/) allows you to toggle various options on/off for each blog post, as well as pass metadata to various features of theImagingSource.
 
 In a notebook, front matter is defined as a markdown cell at the beginning of the notebook with the following contents:
 
@@ -97,7 +105,7 @@ In a notebook, front matter is defined as a markdown cell at the beginning of th
   - branch: master
   - badges: true
   - comments: true
-  - categories: [fastpages, jupyter]
+  - categories: [theImagingSource, jupyter]
   - image: images/some_folder/your_image.png
   - hide: false
   - search_exclude: true
@@ -116,7 +124,7 @@ Similarly, in a markdown document the same front matter would be defined like th
   image: images/some_folder/your_image.png
   hide: false
   search_exclude: true
-  categories: [fastpages, jupyter]
+  categories: [theImagingSource, jupyter]
   metadata_key1: metadata_value1
   metadata_key2: metadata_value2
   ---
@@ -157,10 +165,10 @@ This option works for **notebooks only**
   - You can have a comma seperated list inside square brackets of categories for a blog post, which will make the post visible on the tags page of your blog's site.  For example:
 
     In a notebook:
-    
+
     ```
     # "My Title"
-    - categories: [fastpages, jupyter]
+    - categories: [theImagingSource, jupyter]
     ```
 
     In a markdown document:
@@ -168,11 +176,11 @@ This option works for **notebooks only**
     ```
     ---
     title: "My Title"
-    categories: [fastpages, jupyter]
+    categories: [theImagingSource, jupyter]
     ---
     ```
 
-  You can see a preview of what this looks like [here](https://fastpages.fast.ai/categories/).
+  You can see a preview of what this looks like [here](https://theImagingSource.fast.ai/categories/).
 
 
   - You can toggle the display of tags on/off by setting `show_tags` to `true` or `false` in `_config.yml`:
@@ -245,7 +253,7 @@ _Note: without `sticky_rank` the above posts would actually be sorted in reverse
 
 ### Toggle Search Visibility
 
-fastpages comes with built in keyword search powered by [lunr.js](https://lunrjs.com/).  You can prevent a blog post or page from appearing in search results by setting the front matter `search_exclude` to `false`.  This is set to `true` by default.
+theImagingSource comes with built in keyword search powered by [lunr.js](https://lunrjs.com/).  You can prevent a blog post or page from appearing in search results by setting the front matter `search_exclude` to `false`.  This is set to `true` by default.
 
 
 ## Site Wide Configuration Options
@@ -262,23 +270,23 @@ fastpages comes with built in keyword search powered by [lunr.js](https://lunrjs
 - `twitter_username`: creates a link in your footer to your twitter page.
 - `use_math`: Set this to `true` to get LaTeX math equation support.  This is off by default as it otherwhise loads javascript into each page that may not be used.
 - `show_description`: This shows a description under the title of your blog posts on your homepage that contains a list of your blog posts.  Set to `true` by default.
-- `google_analytics`: Optionally use a [Google Analytics](http://www.google.com/analytics/) ID for tracking if desired. 
+- `google_analytics`: Optionally use a [Google Analytics](http://www.google.com/analytics/) ID for tracking if desired.
 - `show_image`: If set to true, this uses the `image` parameter in the front matter of your blog posts to render a preview of your blogs as shown below.  This is set to `false` by default.
   When show_image is set to `true` your homepage will look like this:
 
-  ![home page](/_fastpages_docs/_show_image_true.png)
+  ![home page](/_theImagingSource_docs/_show_image_true.png)
 
 - `show_tags`: You can toggle the display of tags on your blog posts on or off by setting this value to `false`.  This is set to `true` by default, which which renders the following links for tags on your blog posts like this:
 
-  ![tags](_fastpages_docs/_post_tags.png)
+  ![tags](_theImagingSource_docs/_post_tags.png)
 
 - `pagination`: This is the maximum number of posts to show on each page of your home page.  Any posts exceeding this amount will be paginated onto another page.  This is set to `15` by default.  When this is triggered, you will see pagination at the bottom of your home page appear like this:
 
-  ![paginate](_fastpages_docs/_paginate.png)
+  ![paginate](_theImagingSource_docs/_paginate.png)
 
-  Note: if you are using an older version of fastpages, **you cannot use the automated upgrade process** to get pagination.  Instead you must follow these steps:
+  Note: if you are using an older version of theImagingSource, **you cannot use the automated upgrade process** to get pagination.  Instead you must follow these steps:
 
-    1. Rename your index.md file to index.html 
+    1. Rename your index.md file to index.html
          > mv index.md index.html
     2. Replace the `Gemfile` and `Gemfile.lock` in the root of your repo with the files in this repo.
     3. Edit your `_config.yml` as follows (look at [_config.yml](_config.yml) for an example):
@@ -290,7 +298,7 @@ fastpages comes with built in keyword search powered by [lunr.js](https://lunrjs
         paginate_path: /page:num/
         ```
 
-    _Alternatively, you can copy all of your posts over to a newly created  repository created from the fastpages template._
+    _Alternatively, you can copy all of your posts over to a newly created  repository created from the theImagingSource template._
 
 - `default_badges`: By default GitHub, Binder, and Colab badges will show up on notebook blog posts. You can adjust these defaults by setting the appropriate value in `default_badges` to false.  For example, if you wanted to turn Binder badges off by default, you would change `default_badges` to this:
 
@@ -303,22 +311,22 @@ fastpages comes with built in keyword search powered by [lunr.js](https://lunrjs
 
 ## Syntax Highlighting
 
-`fastpages` overrides the default syntax highlighting of minima with the [Dracula theme](https://draculatheme.com/).  
+`theImagingSource` overrides the default syntax highlighting of minima with the [Dracula theme](https://draculatheme.com/).  
 
-- The default highlighting in fastpages looks like this:
+- The default highlighting in theImagingSource looks like this:
 
-  ![default-highlighting](_fastpages_docs/highlight_dracula.png)
+  ![default-highlighting](_theImagingSource_docs/highlight_dracula.png)
 
 - However, you can make the syntax highlighting to look like this, if you choose:
 
-  ![default-highlighting](_fastpages_docs/highlight_original.png)
+  ![default-highlighting](_theImagingSource_docs/highlight_original.png)
 
   If you wish to revert to the light theme above, you can remove the below line in [_sass/minima/custom-styles.scss](_sass/minima/custom-styles.scss)
 
   ```scss
-  @import "minima/fastpages-dracula-highlight"; 
+  @import "minima/theImagingSource-dracula-highlight";
   ```
-- If you don't like either of these themes, you can add your own CSS in [`_sass/minima/custom-styles.scss`](_sass/minima/custom-styles.scss).  See [customizing fastpages](#customizing-fastpages) for more details.
+- If you don't like either of these themes, you can add your own CSS in [`_sass/minima/custom-styles.scss`](_sass/minima/custom-styles.scss).  See [customizing theImagingSource](#customizing-theImagingSource) for more details.
 
 ## Writing Blog Posts With Jupyter
 
@@ -328,7 +336,7 @@ Place the comment `#hide` at the beginning of a code cell and it wil **hide both
 
 A `#hide_input` comment at the top of any cell will **only hide the input**.
 
-Furthermore, the `hide input` [Jupyter Extension](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/hide_input/readme.html) can be used to hide cell inputs or outputs, which will be respected by fastpages.
+Furthermore, the `hide input` [Jupyter Extension](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/hide_input/readme.html) can be used to hide cell inputs or outputs, which will be respected by theImagingSource.
 
 ### Collapsable Code Cells
 
@@ -347,7 +355,7 @@ In a markdown cell in your notebook, use the following markdown shortcuts to emb
   ```
 ### Adding Footnotes
 
-Adding footnotes in notebooks is a bit different than markdown.  Please the [Detailed Guide To Footnotes in Notebooks](https://github.com/fastai/fastpages/blob/master/_fastpages_docs/NOTEBOOK_FOOTNOTES.md).
+Adding footnotes in notebooks is a bit different than markdown.  Please the [Detailed Guide To Footnotes in Notebooks](https://github.com/animeshs/theImagingSource/blob/master/_theImagingSource_docs/NOTEBOOK_FOOTNOTES.md).
 
 ### Automatically Convert Notebooks To Blog Posts
 
@@ -359,7 +367,7 @@ Adding footnotes in notebooks is a bit different than markdown.  Please the [Det
         2012-09-12-how-to-write-a-blog.ipynb
         ```
 
-     - If you fail to name your file correctly, `fastpages` will automatically attempt to fix the problem by prepending the last modified date of your file to your generated blog post, however, it is recommended that you name your files properly yourself for more transparency.
+     - If you fail to name your file correctly, `theImagingSource` will automatically attempt to fix the problem by prepending the last modified date of your file to your generated blog post, however, it is recommended that you name your files properly yourself for more transparency.
 
 
 2. [Commit and push](https://help.github.com/en/github/managing-files-in-a-repository/adding-a-file-to-a-repository-using-the-command-line) your file(s) to GitHub in your repository's master branch.
@@ -377,31 +385,31 @@ If you are writing your blog post in markdown, save your `.md` file into the `/_
 
 Save your Microsoft Word documents into the `/_word` folder with the same naming convention (`YYYY-MM-DD-*.docx`) specified for notebooks.
 
-_Note:_ [alt text](https://support.office.com/en-us/article/add-alternative-text-to-a-shape-picture-chart-smartart-graphic-or-other-object-44989b2a-903c-4d9a-b742-6a75b451c669) in Word documents are not yet supported by fastpages, and will break links to images.
+_Note:_ [alt text](https://support.office.com/en-us/article/add-alternative-text-to-a-shape-picture-chart-smartart-graphic-or-other-object-44989b2a-903c-4d9a-b742-6a75b451c669) in Word documents are not yet supported by theImagingSource, and will break links to images.
 
 ### Specifying front-matter for Word documents
 
-`fastpages` does not have a robust way to specify [front matter](https://jekyllrb.com/docs/front-matter/) for Word documents.  At the moment, you can only specify front matter globablly for all Word documents by editing [_action_files/word_front_matter.txt](_action_files/word_front_matter.txt).  
+`theImagingSource` does not have a robust way to specify [front matter](https://jekyllrb.com/docs/front-matter/) for Word documents.  At the moment, you can only specify front matter globablly for all Word documents by editing [_action_files/word_front_matter.txt](_action_files/word_front_matter.txt).  
 
 To specify unique front matter per Word document, you will need to convert Word to markdown files manually. You can follow the steps in this [blog post](https://www.fast.ai/2020/01/18/gitblog/), which walk you through how to use [pandoc](https://pandoc.org/installing.html) to do the conversion.  Note: If you wish to customize your Word generated blog post in markdown, make sure you delete your Word document from the _word directory so your markdown file doesn’t get overwritten!  
 
-_If your primary method of writing blog posts is Word documents, and you plan on always manually editing markdown files converted from Word, you are probably better off using [fast_template](https://github.com/fastai/fast_template) instead of fastpages._
+_If your primary method of writing blog posts is Word documents, and you plan on always manually editing markdown files converted from Word, you are probably better off using [fast_template](https://github.com/animeshs/fast_template) instead of theImagingSource._
 
 # Running the blog on your local machine
 
-See the [development guide](_fastpages_docs/DEVELOPMENT.md).
+See the [development guide](_theImagingSource_docs/DEVELOPMENT.md).
 
 
 # Using The GitHub Action & Your Own Custom Blog
 
-The `fastpages` action allows you to convert notebooks from `/_notebooks` and word documents from `/_word` directories in your repo into [Jekyll](https://jekyllrb.com/) compliant blog post markdown files located in `/_posts`.  **Note: This directory structure is currently inflexible** for this Action, as it is designed to be used with Jekyll.
+The `theImagingSource` action allows you to convert notebooks from `/_notebooks` and word documents from `/_word` directories in your repo into [Jekyll](https://jekyllrb.com/) compliant blog post markdown files located in `/_posts`.  **Note: This directory structure is currently inflexible** for this Action, as it is designed to be used with Jekyll.
 
-If you already have sufficient familiarity with [Jekyll](https://jekyllrb.com/) and wish to use this automation in your own theme,  you can use this GitHub Action by referencing `fastai/fastpages@master` as follows:
+If you already have sufficient familiarity with [Jekyll](https://jekyllrb.com/) and wish to use this automation in your own theme,  you can use this GitHub Action by referencing `animeshs/theImagingSource@master` as follows:
 
 ```yaml
 ...
 
-uses: fastai/fastpages@master
+uses: animeshs/theImagingSource@master
 
 ...
 ```
@@ -416,7 +424,7 @@ jobs:
     ...
 
     - name: convert notebooks and word docs to posts
-      uses: fastai/fastpages@master
+      uses: animeshs/theImagingSource@master
 
     ...
 
@@ -445,23 +453,23 @@ See the API spec for this action in [action.yml](action.yml)
 
 Detailed instructions on how to customize this blog are beyond the scope of this README.  ( We invite someone from the community to contribute a blog post on how to do this in this repo! )
 
-# Contributing To Fastpages
+# Contributing To theImagingSource
 
-Please see the [contributing guide](_fastpages_docs/CONTRIBUTING.md).
+Please see the [contributing guide](_theImagingSource_docs/CONTRIBUTING.md).
 
-# Upgrading Fastpages
+# Upgrading theImagingSource
 
-Please see the [upgrading guide](_fastpages_docs/UPGRADE.md).
+Please see the [upgrading guide](_theImagingSource_docs/UPGRADE.md).
 
 # FAQ
 
-- **Q:** Where are the markdown files in `_posts/` that are generated from my Jupyter notebooks or word documents?  **A:** The GitHub Actions workflow in this repo converts your notebook and word documents to markdown on the fly before building your site, but never commits these intermediate markdown files to this repo.  This is in order to save you from the annoyance of your local environment being constantly out of sync with your repository.  You can optionally see these intermediate markdown files by setting the `BOOL_SAVE_MARKDOWN` and `SSH_DEPLOY_KEY` inputs to the fastpages action in your `.github/workflows/ci.yaml` file as follows:
+- **Q:** Where are the markdown files in `_posts/` that are generated from my Jupyter notebooks or word documents?  **A:** The GitHub Actions workflow in this repo converts your notebook and word documents to markdown on the fly before building your site, but never commits these intermediate markdown files to this repo.  This is in order to save you from the annoyance of your local environment being constantly out of sync with your repository.  You can optionally see these intermediate markdown files by setting the `BOOL_SAVE_MARKDOWN` and `SSH_DEPLOY_KEY` inputs to the theImagingSource action in your `.github/workflows/ci.yaml` file as follows:
 
 ```yaml
     ...
 
     - name: convert notebooks and word docs to posts
-      uses: fastai/fastpages@master
+      uses: animeshs/theImagingSource@master
       with:
         BOOL_SAVE_MARKDOWN: true
         SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
@@ -469,13 +477,12 @@ Please see the [upgrading guide](_fastpages_docs/UPGRADE.md).
     ...
 ```
 
-- **Q:** Can I use `fastpages` for Jekyll docs sites or for things that are not Jekyll blog posts?  **A:** At the moment, `fastpages` is a highly opinionated solution that works only for Jekyll blog posts.  If you want to write documentation for your module or library with Jupyter notebooks, we suggest you use [fastai/nbdev](https://github.com/fastai/nbdev) which is expressly built for this purpose.
+- **Q:** Can I use `theImagingSource` for Jekyll docs sites or for things that are not Jekyll blog posts?  **A:** At the moment, `theImagingSource` is a highly opinionated solution that works only for Jekyll blog posts.  If you want to write documentation for your module or library with Jupyter notebooks, we suggest you use [animeshs/nbdev](https://github.com/animeshs/nbdev) which is expressly built for this purpose.
 
-- **Q:** What is the difference between [fast_template](https://github.com/fastai/fast_template) and fastpages?  Which one should I use?  **A:** Because `fastpages` is more flexible and extensible, we recommend using it where possible. `fast_template` may be a better option for getting folks blogging who have no technical expertise at all, and will only be creating posts using Github's integrated online editor.
+- **Q:** What is the difference between [fast_template](https://github.com/animeshs/fast_template) and theImagingSource?  Which one should I use?  **A:** Because `theImagingSource` is more flexible and extensible, we recommend using it where possible. `fast_template` may be a better option for getting folks blogging who have no technical expertise at all, and will only be creating posts using Github's integrated online editor.
 
-# Customizing Fastpages
+# Customizing theImagingSource
 
-fastpages builds upon the [minima theme](https://github.com/jekyll/minima).  If you want to customize the styling or layout of fastpages, you can find instructions [in minima's README](https://github.com/jekyll/minima/blob/master/README.md).  It is a good idea to read the full contents of the README to understand the directory structure.  Furthermore, it is a good idea to have a basic understanding of Jekyll before customizing your theme.  For those new to Jekyll, [the official docs](https://jekyllrb.com/docs/) are a good place to start.  Concretely, you can override css in fastpages in `_sass/minima/custom-styles.scss`.
+theImagingSource builds upon the [minima theme](https://github.com/jekyll/minima).  If you want to customize the styling or layout of theImagingSource, you can find instructions [in minima's README](https://github.com/jekyll/minima/blob/master/README.md).  It is a good idea to read the full contents of the README to understand the directory structure.  Furthermore, it is a good idea to have a basic understanding of Jekyll before customizing your theme.  For those new to Jekyll, [the official docs](https://jekyllrb.com/docs/) are a good place to start.  Concretely, you can override css in theImagingSource in `_sass/minima/custom-styles.scss`.
 
-**If you choose to make customizations to fastpages**  It is possible that customizations you make could collide with current or future versions of fastpages and we recommend doing so only if you feel sufficiently comfortable with HTML and CSS.
-
+**If you choose to make customizations to theImagingSource**  It is possible that customizations you make could collide with current or future versions of theImagingSource and we recommend doing so only if you feel sufficiently comfortable with HTML and CSS.
